@@ -1,0 +1,23 @@
+.jumbotron {
+  color: white;
+  background-image: url("images/shop2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+}
+.row.heading{
+  text-align: center;
+}
+.col-md-3.menu {
+
+  text-align: center;
+  vertical-align: middle;
+  line-height: 320px;
+}
+.col-md-6.menu {
+
+  text-align: center;
+  vertical-align: middle;
+  line-height: 320px;
+}
