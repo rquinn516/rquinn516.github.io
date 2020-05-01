@@ -9,6 +9,9 @@
 .row.heading{
   text-align: center;
 }
+.animated{
+  animation-delay: 1s;
+}
 .col-md-3.menu {
 
   text-align: center;
