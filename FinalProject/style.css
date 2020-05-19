@@ -1,0 +1,19 @@
+.jumbotron {
+  color: white;
+  background-image: url("https://res.cloudinary.com/di0gwzzni/image/upload/v1589931611/finalproject/boulder2_ravvfj.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+.col-md-6.aboutme {
+  font-size: 200%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 600px;
+}
+.col-md-6.projects{
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+}
